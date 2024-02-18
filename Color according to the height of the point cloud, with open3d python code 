@@ -1,0 +1,15 @@
+When drawing a point cloud, color is used to represent its height.
+
+We first calculated the height range of the point cloud, and then mapped the color of each point according to the height
+
+ Modifying the code slightly, we can also make the height color gradual change to the X-wheelbase color gradual change:
+
+ ![avatar]( 7c5c5a84a8014d3da74ac42fb5d1eb26.png) 
+
+ Modifying the code slightly, we can also make the height color gradual change to the X-wheelbase color gradual change:
+
+ ![avatar]( 484f6a5ee1a0499abac0e58884e44811.png) 
+
+  ```python  
+After clicking on the GitHub Sponsor button above, you will obtain access permissions to my private code repository ( https://github.com/slowlon/my_code_bar ) to view this blog code. By searching the code number of this blog, you can find the code you need, code number is: 2024020309574611448
+  ```  
